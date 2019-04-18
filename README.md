@@ -3,7 +3,7 @@ A simple expense application using React.
 Reference: https://www.youtube.com/watch?v=Ke90Tje7VS0
 
 ### Development
-Run
+Run 
 ```javascript
 npm install
 ```
